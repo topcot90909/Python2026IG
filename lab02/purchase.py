@@ -7,5 +7,3 @@ change = paid - fullprice
 
 print(f"Стоимость: {fullprice}")
 print(f"Сдача: {change}")
-
-a = input("")
